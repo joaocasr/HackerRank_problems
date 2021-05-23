@@ -6,7 +6,7 @@ All problems are hosted by @ HackerRank.com. All my code is written in C.
 
 | Topic | Challange | Solution |
 | --- | --- | --- |  
-| Compare the Triplets | Given a and b, determine their respective comparison points.  |          | 
+| Compare the Triplets | Given a and b, determine their respective comparison points.  | [triplets.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/triplets.c)|
 | Simple Array Sum| Given an array of integers, find the sum of its elements.|          |    
 | A Very Big Sum| Calculate and print the sum of large elements in an array. |          |
 | Diagonal Difference| Given a square matrix, calculate the absolute difference between the sums of its diagonals. |          |
