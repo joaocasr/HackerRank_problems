@@ -1,6 +1,6 @@
 ![hrank](https://user-images.githubusercontent.com/73347405/119276283-e527f880-bc11-11eb-8759-e5fbdebd8f39.png)
 
-All my code is written in C. All problems bellow are hosted by @HackerRank.com. 
+All my code is written in C. All problems bellow are hosted by HackerRank. 
 
 **Problem Solving- Algorithms & Data Structs**
 
