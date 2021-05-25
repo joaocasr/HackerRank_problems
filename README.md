@@ -8,9 +8,9 @@ My HackerRank Profile: [@castro_JP](https://www.hackerrank.com/castro_JP)
 | Topic | Challange | Solution |
 | --- | --- | --- |  
 | Compare the Triplets | Given a and b, determine their respective comparison points.  | [triplets.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/triplets.c)|
-| Simple Array Sum| Given an array of integers, find the sum of its elements.|          |    
+| Simple Array Sum| Given an array of integers, find the sum of its elements.|[arr_sum.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/arr_sum.c)|   
 | A Very Big Sum| Calculate and print the sum of large elements in an array. |          |
-| Diagonal Difference| Given a square matrix, calculate the absolute difference between the sums of its diagonals. |          |
+| Diagonal Difference| Given a square matrix, calculate the absolute difference between the sums of its diagonals. |[diag_diff.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/diag_diff.c)|
 | Print the Elements of a Linked List| This is an to practice traversing a linked list. |         |
 | Insert a Node at the Tail of a Linked List| Insert a Node at the Tail of a Linked List. |         |
 | Insert a node at the head of a linked list| Insert a node at the head of a linked list. |         |
