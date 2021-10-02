@@ -15,5 +15,6 @@ My hackerrank acc:[@castro_JP](https://www.hackerrank.com/castro_JP)
 | Insert a Node at the Tail of a Linked List| Insert a Node at the Tail of a Linked List. |         |
 | Insert a node at the head of a linked list| Insert a node at the head of a linked list. |         |
 | Plus Minus| Calculate the ratios of the elements of a given array. | [plusminus.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/plus_minus.c)|
+| Mini-Max Sum| Find the minimum and maximum values of summing n-1 elements of an array of size n. | [minimaxsum.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/minimaxsum.c)|
 | Staircase| Write a program that prints a staircase of size n. | [staircase.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/staircase.c)|
 | Insert a node at a specific position in a linked list| Insert a node at a specific position in a linked list. | [insertnode.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/isertnode.c)|
