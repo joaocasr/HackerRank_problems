@@ -20,3 +20,11 @@ My hackerrank acc:[@castro_JP](https://www.hackerrank.com/castro_JP)
 | Mini-Max Sum| Find the minimum and maximum values of summing n-1 elements of an array of size n. | [minimaxsum.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/minimaxsum.c)|
 | Staircase| Write a program that prints a staircase of size n. | [staircase.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/staircase.c)|
 | Insert a node at a specific position in a linked list| Insert a node at a specific position in a linked list. | [insertnode.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/isertnode.c)|
+
+
+**Problem Solving- Algorithms & Data Structs**
+
+| Topic | Challange | Solution |
+| --- | --- | --- |
+| Pointers in c | Complete the function void update(int *a,int *b).| [pointers.c](https://github.com/joaocasr/HackerRank_problems/blob/main/C%20Language/pointers.c)|
+| Functions in c| Print the greatest element of four integers. | [functions.c](https://github.com/joaocasr/HackerRank_problems/blob/main/C%20Language/functions.c)|
