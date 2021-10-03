@@ -1,5 +1,5 @@
 include <stdio.h>
-//primeira submissão
+//primeira submissão usando um ciclo while
 int max_of_four(int a, int b, int c, int d){
     int n[4]={a,b,c,d};
     int i=0,r=i,o;
@@ -15,7 +15,7 @@ int max_of_four(int a, int b, int c, int d){
     }
     return o;
 }
-//segunda submissão
+//segunda submissão usando um ciclo for
 int max_of_four(int a, int b, int c, int d){
     int arr[4]={a,b,c,d};
     int i=0;
