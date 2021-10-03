@@ -22,7 +22,7 @@ My hackerrank acc:[@castro_JP](https://www.hackerrank.com/castro_JP)
 | Insert a node at a specific position in a linked list| Insert a node at a specific position in a linked list. | [insertnode.c](https://github.com/joaocasr/HackerRank_problems/blob/main/Problem_Solving/isertnode.c)|
 
 
-**Problem Solving- Algorithms & Data Structs**
+**C Language-functions,loops,conditions,arrays,etc**
 
 | Topic | Challange | Solution |
 | --- | --- | --- |
