@@ -28,3 +28,4 @@ My hackerrank acc:[@castro_JP](https://www.hackerrank.com/castro_JP)
 | --- | --- | --- |
 | Pointers in c | Complete the function void update(int *a,int *b).| [pointers.c](https://github.com/joaocasr/HackerRank_problems/blob/main/C%20Language/pointers.c)|
 | Functions in c| Print the greatest element of four integers. | [functions.c](https://github.com/joaocasr/HackerRank_problems/blob/main/C%20Language/functions.c)|
+| Array Reversal in c| Print the reversed array. |[arr_reversal.c](https://github.com/joaocasr/HackerRank_problems/blob/main/C%20Language/arr_reversal.c)|
